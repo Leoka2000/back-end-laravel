@@ -1,0 +1,20 @@
+.navbar {
+    height: 80px;
+display: flex;
+justify-content: left;
+background-color: #1f2b3f;
+color: white;
+border-bottom: #d6d6d6 1px solid;
+align-items: center;
+padding-left: 8rem;
+
+}
+.navbar > a {
+  display: flex;
+  
+}
+.navbar > a > h1 {
+  color: white;[
+   font-size: 1.5rem;
+  ]
+}

@@ -1,0 +1,27 @@
+.navbar {
+    height: 80px;
+display: flex;
+justify-content: left;
+background-color: #ececec;
+border-bottom: #d6d6d6 1px solid;
+align-items: center;
+}
+.navbar > img {
+  width: 10rem;
+  height: 8rem;
+  display: block;
+  margin-block-start: -0.6rem;
+  
+}
+.navbar > a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d498d4;
+  
+  font-size: 1.4rem;
+ padding: 0.75rem;
+
+  border-radius: 100%;
+  margin-right: 2rem;
+}

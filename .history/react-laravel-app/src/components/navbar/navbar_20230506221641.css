@@ -1,0 +1,18 @@
+.navbar {
+    height: 80px;
+display: flex;
+justify-content: space-between;
+background-color: #ebebeb;
+border-bottom: #dbdbdb 1px solid;
+}
+.navbar > img {
+  width: 10rem;
+  height: 10rem;
+  display: block;
+  margin-block-start: -2.6rem;
+  
+}
+.navbar > a {
+  display: flex;
+  flex-direction: column;
+}

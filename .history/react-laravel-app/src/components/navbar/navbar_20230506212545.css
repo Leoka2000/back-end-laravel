@@ -1,0 +1,13 @@
+.navbar {
+    height: 80px;
+display: flex;
+justify-content: space-between;
+background-color: #dbdbdb;
+box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25) !important;
+}
+.navbar > img {
+  width: 10rem;
+  height: 10rem;
+  display: block;
+  
+}

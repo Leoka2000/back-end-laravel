@@ -1,0 +1,6 @@
+.navbar {
+    height: 80px;
+display: flex;
+justify-content: space-between;
+background-color: #13294e
+}

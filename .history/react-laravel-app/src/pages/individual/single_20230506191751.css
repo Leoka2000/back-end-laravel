@@ -1,0 +1,11 @@
+.single-page-section {
+    padding: 10rem 0 10rem 0;
+    margin-left: 0rem 10 0rem 10rem;
+}
+.single-page-row {
+    display: flex;
+}
+.single-page-text-wrapper {
+    display: flex;
+    flex-direction: column;
+}
